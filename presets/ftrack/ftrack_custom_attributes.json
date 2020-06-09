@@ -42,7 +42,8 @@
             {"python_3": "Python 3"},
             {"python_2": "Python 2"},
             {"premiere_2019": "Premiere Pro 2019"},
-            {"aport": "Aport Server"}
+            {"premiere_2020": "Premiere Pro 2020"},
+            {"resolve_16": "BM DaVinci Resolve 16"}
         ]
     }
 }, {
