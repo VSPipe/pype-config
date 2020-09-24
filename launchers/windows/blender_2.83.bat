@@ -1,7 +1,5 @@
-@echo off
-
-set __app__="Python"
-set __exe__="C:\Python27\python.exe"
+set __app__="Blender"
+set __exe__="C:\Program Files\Blender Foundation\Blender 2.83\blender.exe" --python-use-system-env
 if not exist %__exe__% goto :missing_app
 
 start %__app__% %__exe__% %*
